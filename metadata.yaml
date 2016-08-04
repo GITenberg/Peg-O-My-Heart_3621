@@ -1,0 +1,29 @@
+_repo: Peg-O-My-Heart_3621
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Manners, J. Hartley
+    alias: Manners, John Hartley
+    birthdate: 1870
+    deathdate: 1928
+    gutenberg_agent_id: '1240'
+    url: http://www.gutenberg.org/2009/agents/1240
+    wikipedia: http://en.wikipedia.org/wiki/J._Hartley_Manners
+description: ''
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irish American women -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Upper class families -- England -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Peg O' My Heart
+url: http://www.gutenberg.org/ebooks/3621
